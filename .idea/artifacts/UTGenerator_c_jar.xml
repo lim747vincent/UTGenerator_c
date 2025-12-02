@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="UTGenerator_c:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UTGenerator_c_jar</output-path>
+    <root id="archive" name="UTGenerator_c.jar">
+      <element id="module-output" name="UTGenerator_c" />
+    </root>
+  </artifact>
+</component>
